@@ -1,5 +1,4 @@
 # Notes
-1.) 30:12 left in 19.12
 
 
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
